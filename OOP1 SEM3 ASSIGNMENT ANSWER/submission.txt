@@ -1,0 +1,10 @@
+Repository URL: [Private GitHub Repository URL: SmartLibrary-GroupX]
+Tag Name: week4-submission
+Submitted Files:
+- operations.py
+- demo.py
+- tests.py
+- README.md
+- UML.png (or UML.pdf)
+- DesignRationale.pdf
+- submission.txt
